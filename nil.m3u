@@ -7,3 +7,24 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="http://toffe.top/images/starjalsha.png",STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
+http://172.16.29.34/ontest1/ontest1/177
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/220px-BTV_Chattogram_Logo.svg.png",BTV Chattogram
+http://172.16.29.34/ontest1/ontest1/179
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/640px-Bangladesh_Television_Logo.svg.png",BTV National
+http://172.16.29.34/ontest1/ontest1/446
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png",Sangsad Tv
+http://172.16.29.34/ontest1/ontest1/262
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
+http://172.16.29.34/ontest1/ontest1/181
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports FHd
+http://172.16.29.34/ontest1/ontest1/461
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7Y80gYT7egS04-zEbKodr0Ia6JWwJ2MiN0CEx3isRGxkusnPypQ8JxXqFIozt7CFt0k&usqp=CAU",Asian tv
+http://172.16.29.34/ontest1/ontest1/184
